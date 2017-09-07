@@ -2,6 +2,8 @@
 #include <stack>
 using namespace std;
 
+/* Question: http://www.spoj.com/problems/ONP/ */
+
 bool isOperand(char c) {
     if (c != '('
             && c != ')'
